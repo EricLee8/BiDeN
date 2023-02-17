@@ -60,19 +60,17 @@ Due to some stochastic factors(e.g., GPU and environment), it may need some slig
 ## Citation
 If you find our paper or this repository useful, please cite us in your paper:
 ```
-@article{BiDeN,
-  author    = {Yiyang Li and
-               Hai Zhao and
-               Zhuosheng Zhang},
-  title     = {Back to the Future: Bidirectional Information Decoupling Network for
-               Multi-turn Dialogue Modeling},
-  journal   = {CoRR},
-  volume    = {abs/2204.08152},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2204.08152},
-  doi       = {10.48550/arXiv.2204.08152},
-  eprinttype = {arXiv},
-  eprint    = {2204.08152},
-  timestamp = {Tue, 19 Apr 2022 17:11:58 +0200}
+@inproceedings{li-etal-2022-back,
+    title = "Back to the Future: Bidirectional Information Decoupling Network for Multi-turn Dialogue Modeling",
+    author = "Li, Yiyang  and
+      Zhao, Hai  and
+      Zhang, Zhuosheng",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.177",
+    pages = "2761--2774"
 }
 ```
